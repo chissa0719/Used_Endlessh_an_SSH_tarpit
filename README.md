@@ -1,6 +1,6 @@
 # Used_Endlessh_an_SSH_tarpit
 <br>
-endless_SSHの話題を耳にして，使いたくなったのでやってみた．<br>
+Endlessh: an SSH tarpit の話題を耳にして，使いたくなったのでやってみた．<br>
 <br>
 ランダムに<b>超ゆっくりと</b>SSHバナーを延々と送信することで，攻撃者のスタック化を狙っているっぽい？<br>
 (英語微妙です．指摘などあればお願いします．)<br>
