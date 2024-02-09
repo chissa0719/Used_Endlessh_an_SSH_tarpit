@@ -1,4 +1,4 @@
-# Used_endless_SSH
+# Used_Endlessh_an_SSH_tarpit
 <br>
 endless_SSHの話題を耳にして，使いたくなったのでやってみた．<br>
 <br>
